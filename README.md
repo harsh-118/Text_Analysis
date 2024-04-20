@@ -1,9 +1,9 @@
 # Libraries Used:
-*numpy (as np): For numerical operations.\
-*pandas (as pd): For handling data in DataFrame format.\
-*requests: For making HTTP requests to retrieve web content.\
-*BeautifulSoup (from bs4): For parsing HTML content.\
-*nltk: For natural language processing tasks like tokenization and stopwords removal.
+* **numpy (as np):** For numerical operations.
+* **pandas (as pd):** For handling data in DataFrame format.
+* **requests:** For making HTTP requests to retrieve web content.
+* **BeautifulSoup (from bs4):** For parsing HTML content.
+* **nltk:** For natural language processing tasks like tokenization and stopwords removal.
 
 
 # Data Retrieval and Processing:
